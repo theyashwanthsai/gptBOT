@@ -1,4 +1,4 @@
 streamlit
-hugchat
+openai
 streamlit-chat
 streamlit-extras
